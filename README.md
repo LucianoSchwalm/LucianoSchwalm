@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @LucianoSchwalm
-- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me luciano.rocha21@hotmail.com
 
