@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Luciano Schwalm and my nickname is "luciSchwalm"!
+## My name is Luciano Schwalm
 
 - 🔭 I'm able to work with Software Engineering
 - 🌱 I'm focusing to learn more about Front-end development, searching new technologies and looking about Nextjs mainly
