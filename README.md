@@ -6,7 +6,6 @@
 - 👯 I'm looking to collaborate in projects abroad my country
 - 🤔 I'm searching help on how to grow even further as a Software Engineer
 - 📫 You can get in touch by luciano.rocha21@hotmail.com and also by https://linkedin.com/in/luciano-schwalm
-- ⚡ Curiosidade: ...
 
 <div>
   <a href="https://github.com/LucianoSchwalm">
